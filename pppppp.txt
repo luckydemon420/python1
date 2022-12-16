@@ -1,3 +1,5 @@
 # read mode(r)(r+)
 # Write mode(w)(w+)
 # append mode(a)(a+)
+thankyou
+
